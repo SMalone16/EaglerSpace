@@ -1,0 +1,19 @@
+# Huxley's Space
+# Entry requires Y > boundary. Once in Space Mode, exit requires Y < boundary.
+space-boundary-y: 220.0
+
+# Personal sky time while in space. 18000 = midnight.
+personal-midnight-ticks: 18000
+
+oxygen-seconds: 10
+
+# Once oxygen has already reached 0, damage is applied at this interval.
+damage-interval-seconds: 2
+damage-hearts: 1.0
+
+particle-interval-seconds: 3
+ambient-sound-interval-seconds: 12
+
+show-title: true
+show-particles: true
+play-sounds: true
