@@ -1,0 +1,6 @@
+name: EaglerSpace
+version: '1.0.0'
+main: org.pawling.eaglerspace.EaglerSpacePlugin
+api-version: '1.21.11'
+author: Pawling CSD Game Development
+description: Huxley's Space mechanic - personal space mode and oxygen survival above Y=220.
